@@ -39,18 +39,3 @@ Small & medium sized business owners specially in developing countries(e.g. Indi
     * __Pytesseract__ - OCR
     * __Spacy / NLTK__ - Named entity recognition and catagorization
     * __Numpy and pandas__ - Data processing
-    
-    
-# Team
-1. __Shivan Desai__ - Will be working on frontend design and functionality implementations.
-2. __Samik Biswas__ - Handling image upscaling, segmentation, OCR and NER.
-3. __Shubhangi Yadav__ - Planning and implementing backend solutions along with security authentication and data validation.
-4. __Rajeev Sebastian__ - Integrating different parts of the project and interfacing between different technologies and cloud deployment.
-
-###### Original Professor Feedback :-
-Name entity recognition using OCR from a invoice
-
-Develop a service that takes invoices as input and generates a csv with important name and entities which can be ingested into a database. The end to end flow will show the extracted data which user will acknowledge before it gets ingested into db.
-
-use state of the art OCR and language model to build this. take a couple of invoices as examples ..
-
